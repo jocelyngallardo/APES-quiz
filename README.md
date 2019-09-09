@@ -1,1 +1,1 @@
-# psychology-quiz
+# APES-quiz
