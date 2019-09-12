@@ -2,10 +2,11 @@ body{
 	background-color: Khaki;
 }
 h1{
+	color:DarkSlateGrey;
 	padding: 12px;
 	border:5px double DarkSlateGrey;
 	margin:10px;
 }
 p{
-	
+	color:DarkSlateGrey;
 }
