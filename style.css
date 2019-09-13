@@ -1,19 +1,35 @@
 body{
+	font-family: "Times New Roman", Times, serif;
 	background-color: Khaki;
 }
 h1{
+	text-align:center;
+	font-family: "Times New Roman", Times, serif;
 	color:DarkSlateGrey;
 	padding: 12px;
-	border:5px double DarkSlateGrey;
+	border:10px double DarkSlateGrey;
 	margin:10px;
 }
 p{
 	display: none;
+	text-align:center;
+	font-family: "Times New Roman", Times, serif;
 	color:DarkSlateGrey;
 }
 #showanswer{
 	display: none;
+	text-align:right;
+	border:1px inset DarkSlateGrey;
+	font-family: "Times New Roman", Times, serif;
 }
 #next{
 	display: none;
+	text-align:right;
+	border:1px inset DarkSlateGrey;
+	font-family: "Times New Roman", Times, serif;
+}
+#start{
+	text-align:right;
+	border:1px inset DarkSlateGrey;
+	font-family: "Times New Roman", Times, serif;
 }
