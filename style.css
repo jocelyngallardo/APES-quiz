@@ -8,5 +8,12 @@ h1{
 	margin:10px;
 }
 p{
+	display: none;
 	color:DarkSlateGrey;
+}
+#showanswer{
+	display: none;
+}
+#next{
+	display: none;
 }
