@@ -17,9 +17,18 @@ $(document).ready(function(){
 			$("#question"+count).hide();
 			$("#answer"+count).hide();
 			count++;
+			if(count == 9)
+			{
+				$("#finish").show();
+			}else{
 			$("#question"+count).show();
 			$("#showanswer").show();
-
+			}
+			
+		});
+		$("#finish").click(function(){
+			$("#finish").hide;
+			$("#start").show();
 		});
 	
 		
