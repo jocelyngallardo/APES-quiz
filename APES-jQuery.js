@@ -27,7 +27,7 @@ $(document).ready(function(){
 			
 		});
 		$("#finish").click(function(){
-			$("#finish").hide;
+			$("#finish").hide();
 			$("#start").show();
 		});
 	
